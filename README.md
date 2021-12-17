@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Taxcix
+- 👋 Hi, I’m @Pavel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java, javascript, html..
+- 🌱 I’m currently learning java, javascript, html etc..
 - 📫 My contact is taxcix@hotmail.com
 
 
